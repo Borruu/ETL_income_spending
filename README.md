@@ -1,6 +1,3 @@
-# Project-2
-
-
 # Examining Income and Expenditure in Western Australia Over Time
 
 ## Project Description
